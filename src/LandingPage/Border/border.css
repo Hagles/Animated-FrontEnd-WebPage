@@ -1,0 +1,21 @@
+
+
+.link:link,
+.link:visited {
+  color: #ffffff;
+  font-size: 18px;
+  font: normal normal bold 18px/27px Calibri;
+}
+.linkBorder {
+  width: 233px;
+  text-align: center;
+  border: 3px solid #ffffff;
+  border-radius: 8px;
+  opacity: 1;
+}
+.borderLinkBordered:link,
+.borderLinkBordered:visited {
+  color: #ffffff;
+  font-size: 18px;
+  font: normal normal bold 18px/27px Calibri;
+}
